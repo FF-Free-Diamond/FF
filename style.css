@@ -1,0 +1,87 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html{
+font-size:100%
+}
+/*#header{
+   width:100%;
+   display:flex;
+   align-items:center;
+   background:#fffbe2;
+   padding:8rem;
+   font-size:14rem;
+}*/
+#fbox{
+   width:100%;
+   display:flex;
+   align-items:center;
+   justify-content:center;
+   flex-direction:column; 
+}
+#fbox h2{
+   margin-top:20rem;
+   margin-bottom:5rem;
+   color:#1878f3;
+   font-size:22rem;
+}
+#fbox input{
+   width:92%;
+   margin-top:7;
+  padding:17rem;
+  border:none;
+  outline:none;
+  background:#F5F5F5;
+  box-shadow:0 1rem 2rem rgb(180,180,180);
+  border-radius:3rem;
+}
+#fbox button{
+   width:92%;
+   margin-top:10rem;
+   padding:12rem;
+   border-radius:3rem;
+}
+#fbox #login_button{
+	font-size:16rem;
+	font-weight:bold;
+	color:#fff;
+	background:#1878f3;
+	border:none;
+	outline:none;
+}
+#fbox #forget_button{
+   background:none;
+   border:none;
+   outline:none;
+   color:#377DDF;
+   font-size:14rem;
+   margin-top:3rem;
+   
+}
+/*#fbox #line{
+   width:92%;
+   height:1rem;
+   background:rgb(200,200,200);
+   margin:3rem;
+   display:flax;
+   align-items:center;
+   justify-content:center;
+}
+#fbox #line p{
+   background:#fff;
+   padding:0 20rem;
+}*/
+#fbox #new_account{
+color:#fff;
+   background:#00a400;
+   font-weight:bold;
+   margin-top:20rem;
+   font-size:13rem;
+   border:none;
+   outline:none;
+   padding:12rem;
+   width:50%;
+   text-shadow:1rem 0 1rem rgb(0,0,0,0,3);
+}
