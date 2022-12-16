@@ -11,7 +11,7 @@ font-size:62%;
    display:flex;
    align-items:center;
    background:#fffbe2;
-   padding:40rem 2rem;
+   padding:2rem 7rem;
    font-size:3.2rem;
 }
 #fbox{
@@ -25,7 +25,7 @@ font-size:62%;
    margin-top:2.0rem;
    margin-bottom:.5rem;
    color:#1878f3;
-   font-size:2.2rem;
+   font-size:4.2rem;
 }
 #fbox input{
    width:20rem;
