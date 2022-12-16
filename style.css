@@ -60,24 +60,26 @@ font-size:62%;
    margin-top:.3rem;
    
 }
-/*#fbox #line{
+#fbox #line{
    width:92%;
-   height:.1rem;
+   height:.2rem;
    background:rgb(200,200,200);
-   margin:.3rem;
+   margin:1.4rem;
    display:flax;
    align-items:center;
    justify-content:center;
+
+ 
 }
-#fbox #line p{
+#fbox #line span{
    background:#fff;
-   padding:0 2.0rem;
-}*/
+   padding:0 2rem;
+}
 #fbox #new_account{
 color:#fff;
    background:#00a400;
    font-weight:bold;
-   margin-top:2.0rem;
+   margin-top:2rem;
    font-size:1.3rem;
    border:none;
    outline:none;
