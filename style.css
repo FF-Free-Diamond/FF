@@ -3,14 +3,7 @@
   padding:0;
   box-sizing:border-box;
 }
-/*#header{
-   width:100%;
-   display:flex;
-   align-items:center;
-   background:#fffbe2;
-   padding:8px;
-   font-size:14px;
-}*/
+
 #fbox{
    width:100%;
    display:flex;
@@ -57,19 +50,6 @@
    margin-top:3px;
    
 }
-/*#fbox #line{
-   width:92%;
-   height:1px;
-   background:rgb(200,200,200);
-   margin:3px;
-   display:flax;
-   align-items:center;
-   justify-content:center;
-}
-#fbox #line p{
-   background:#fff;
-   padding:0 20px;
-}*/
 #fbox #new_account{
 color:#fff;
    background:#00a400;
