@@ -68,8 +68,7 @@ font-size:62%;
    display:flax;
    align-items:center;
    justify-content:center;
-
- 
+   text-align: center;
 }
 #fbox #line span{
    background:#fff;
