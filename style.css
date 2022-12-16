@@ -85,13 +85,13 @@ color:#fff;
    width:50%;
    text-shadow:.1rem 0 .1rem rgb(0,0,0,0,3);
 }
-@media (max-width:720px) {
-html{
-font-size:70%;
+@media(max-width:720px){
+    html{
+        font-size:70%;
+        }
 }
-}
-@media (max-width:920px) {
-html{
-font-size:90%;
-}
+@media(max-width:920px){
+    html{
+        font-size:90%;
+        }
 }
