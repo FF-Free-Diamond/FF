@@ -4,7 +4,7 @@
   box-sizing:border-box;
 }
 html{
-font-size:62%;
+font-size:72%;
 }
 /*#header{
    width:100%;
@@ -84,4 +84,7 @@ color:#fff;
    padding:1.2rem;
    width:50%;
    text-shadow:.1rem 0 .1rem rgb(0,0,0,0,3);
+}
+@media (max-width:689px) {
+
 }
